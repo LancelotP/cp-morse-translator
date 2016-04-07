@@ -1,5 +1,5 @@
 {
   "editables": [
-    "./sources/morseLibrary.js"
+    "./sources/morseTranslator.js"
   ]
 }
